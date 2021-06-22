@@ -1,2 +1,3 @@
 # git-github
-This is my first file for titorial purposes
+This is my first file for tutorial purposes
+Ameer teaching baba
